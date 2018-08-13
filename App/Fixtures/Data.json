@@ -1,0 +1,202 @@
+[
+  {
+    "userName": "Amstrong",
+    "message": "Hello World!",
+    "identifier": 1,
+    "commentsCount": 5,
+    "type": "messagePost",
+    "imageURL": "https://static.pexels.com/photos/2152/sky-earth-space-working.jpg"
+  },
+  {
+    "userName": "John Smith",
+    "commentsCount": 1,
+    "identifier": 2,
+    "likesCount": 5,
+    "type": "photoPost",
+    "imageURL": "https://static.pexels.com/photos/2162/sky-space-dark-galaxy.jpg"
+  },
+  {
+    "userName": "Linda Smitt",
+    "message": "Nothing to say",
+    "identifier": 3,
+    "commentsCount": 5,
+    "type": "messagePost",
+    "imageURL": "https://static.pexels.com/photos/39317/chihuahua-dog-puppy-cute-39317.jpeg"
+  },
+  {
+    "userName": "Lora",
+    "message": "123",
+    "identifier": 4,
+    "commentsCount": 5,
+    "type": "messagePost",
+    "imageURL": "https://static.pexels.com/photos/14644/pexels-photo-14644.jpeg"
+  },
+  {
+    "userName": "Will Smitt",
+    "commentsCount": 5,
+    "identifier": 5,
+    "likesCount": 6,
+    "type": "photoPost",
+    "imageURL": "https://static.pexels.com/photos/425047/pexels-photo-425047.jpeg"
+  },
+  {
+    "userName": "Amstrong",
+    "message": "Hello world!",
+    "identifier": 6,
+    "commentsCount": 5,
+    "type": "messagePost",
+    "imageURL": "https://static.pexels.com/photos/2152/sky-earth-space-working.jpg"
+  },
+  {
+    "userName": "Will Smitt",
+    "commentsCount": 5,
+    "identifier": 7,
+    "likesCount": 3,
+    "type": "photoPost",
+    "imageURL": "https://static.pexels.com/photos/435899/pexels-photo-435899.jpeg"
+  },
+  {
+    "userName": "Lora",
+    "commentsCount": 3,
+    "identifier": 8,
+    "likesCount": 12,
+    "type": "photoPost",
+    "imageURL": "https://static.pexels.com/photos/14644/pexels-photo-14644.jpeg"
+  },
+  {
+    "userName": "Linda Smitt",
+    "message": "Ei vel minim tollit, aperiam aliquid contentiones sed ei, congue malorum at cum. Mel paulo sadipscing ne. Soluta commune repudiare id his, ad vel vivendum gubergren. Porro graeco conclusionemque vix ea, no labores luptatum periculis mea. Tantas laudem scaevola ad vix. Vim te laboramus liberavisse, per dicant epicuri electram in.",
+    "identifier": 9,
+    "commentsCount": 5,
+    "type": "messagePost",
+    "imageURL": "https://static.pexels.com/photos/39317/chihuahua-dog-puppy-cute-39317.jpeg"
+  },
+  {
+    "userName": "Will Smitt",
+    "commentsCount": 91,
+    "identifier": 10,
+    "likesCount": 100,
+    "type": "photoPost",
+    "imageURL": "https://static.pexels.com/photos/336964/pexels-photo-336964.jpeg"
+  },
+  {
+    "userName": "Amstrong",
+    "message": "Te mel alterum consequat, tollit veniam in eam. Sea erat senserit cotidieque ex, nonumy sanctus eos te. Sea dolor theophrastus ex, ne laudem maiorum has. His feugait aliquando no, est ei eruditi maiestatis. Ad per ancillae appareat electram. Ea duo movet nonumy, putent dictas mnesarchum ex mea, mei amet assum ne.",
+    "identifier": 11,
+    "commentsCount": 5,
+    "type": "messagePost",
+    "imageURL": "https://static.pexels.com/photos/2152/sky-earth-space-working.jpg"
+  },
+  {
+    "userName": "Mi Kong",
+    "message": "Eam vero pertinacia ullamcorper at, eros fugit vis ne. Per eirmod blandit dissentiunt ea, sed ne habeo molestie efficiantur. Delenit menandri pri no, numquam omnesque qui eu. Vel an duis pericula.",
+    "identifier": 12,
+    "commentsCount": 5,
+    "type": "messagePost",
+    "imageURL": "https://static.pexels.com/photos/50582/selfie-monkey-self-portrait-macaca-nigra-50582.jpeg"
+  },
+  {
+    "userName": "Haskel Williamt",
+    "message": "Quod elit dissentiet at per, no mundi assentior repudiandae nec. Ne doctus periculis mea. Oblique corrumpit at pri. Vim no utinam deserunt scriptorem.",
+    "identifier": 13,
+    "commentsCount": 5,
+    "type": "messagePost",
+    "imageURL": "https://static.pexels.com/photos/69433/pexels-photo-69433.jpeg"
+  },
+  {
+    "userName": "William Shh",
+    "commentsCount": 1,
+    "identifier": 14,
+    "likesCount": 0,
+    "type": "photoPost",
+    "imageURL": "https://static.pexels.com/photos/379940/pexels-photo-379940.jpeg"
+  },
+  {
+    "userName": "Mi Kong",
+    "message": "Eu per meis lorem velit, graeci abhorreant his cu. Ex vim dicat facer iracundia, in solum tritani sed. Ut eos tollit facilisi persecuti. Vim mutat malorum persius an. Posse quaeque alienum nam ea.",
+    "identifier": 15,
+    "commentsCount": 5,
+    "type": "messagePost",
+    "imageURL": "https://static.pexels.com/photos/50582/selfie-monkey-self-portrait-macaca-nigra-50582.jpeg"
+  },
+  {
+    "userName": "Mi Kong",
+    "message": "Tota tincidunt vim ei, omnesque signiferumque ea duo. Nihil accommodare eu has. Porro maluisset sea no. Ad sed sint offendit adipisci.",
+    "identifier": 16,
+    "commentsCount": 5,
+    "type": "messagePost",
+    "imageURL": "https://static.pexels.com/photos/50582/selfie-monkey-self-portrait-macaca-nigra-50582.jpeg"
+  },
+  {
+    "userName": "Curt1988",
+    "commentsCount": 4,
+    "identifier": 17,
+    "likesCount": 1,
+    "type": "photoPost",
+    "imageURL": "https://static.pexels.com/photos/2422/sky-earth-galaxy-universe.jpg"
+  },
+  {
+    "userName": "John Bim",
+    "commentsCount": 9,
+    "identifier": 18,
+    "likesCount": 0,
+    "type": "photoPost",
+    "imageURL": "https://static.pexels.com/photos/2159/flight-sky-earth-space.jpg"
+  },
+  {
+    "userName": "Flier000",
+    "message": "Vis at fierent scaevola, vis te verear disputationi. Unum laboramus qui no, vis blandit fastidii detraxit id. Vel alia expetenda no, facer dicant vivendo mel ea, in sea suas iuvaret noluisse. Quot accommodare sed no, choro solet electram eos te.",
+    "identifier": 19,
+    "commentsCount": 5,
+    "type": "messagePost",
+    "imageURL": "https://static.pexels.com/photos/9291/nature-bird-flying-red.jpg"
+  },
+  {
+    "userName": "Mr Karr",
+    "message": "Vinditek",
+    "identifier": 20,
+    "commentsCount": 5,
+    "type": "messagePost",
+    "imageURL": "https://static.pexels.com/photos/53581/bald-eagles-bald-eagle-bird-of-prey-adler-53581.jpeg"
+  },
+  {
+    "userName": "Flier000",
+    "message": "Unum laboramus qui no, vis blandit fastidii detraxit id.",
+    "identifier": 21,
+    "commentsCount": 5,
+    "type": "messagePost",
+    "imageURL": "https://static.pexels.com/photos/9291/nature-bird-flying-red.jpg"
+  },
+  {
+    "userName": "Jonny Kia",
+    "commentsCount": 3,
+    "identifier": 22,
+    "likesCount": 3,
+    "type": "photoPost",
+    "imageURL": "https://static.pexels.com/photos/23795/rocket-launch-space-discovery.jpg"
+  },
+  {
+    "userName": "WMr Karr",
+    "message": "Vix in copiosae concludaturque.",
+    "identifier": 23,
+    "commentsCount": 5,
+    "type": "messagePost",
+    "imageURL": "https://static.pexels.com/photos/53581/bald-eagles-bald-eagle-bird-of-prey-adler-53581.jpeg"
+  },
+  {
+    "userName": "Doc17",
+    "commentsCount": 6,
+    "identifier": 24,
+    "likesCount": 5,
+    "type": "photoPost",
+    "imageURL": "https://static.pexels.com/photos/323780/pexels-photo-323780.jpeg"
+  },
+  {
+    "userName": "Haskel William",
+    "message": "Id eum dicta utinam ocurreret, wisi dissentiet mea cu, vel eruditi ancillae quaerendum id. Eum tempor prompta debitis ne, cetero pertinacia mei ut, decore temporibus signiferumque ea cum. Cum inciderint disputationi ut. Has te tollit facilisi torquatos, eu mei aeterno lucilius ullamcorper. Cum viris sadipscing reformidans et, etiam veniam veritus vix an.",
+    "identifier": 25,
+    "commentsCount": 5,
+    "type": "messagePost",
+    "imageURL": "https://static.pexels.com/photos/69433/pexels-photo-69433.jpeg"
+  }
+]
